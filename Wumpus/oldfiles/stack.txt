@@ -1,0 +1,15 @@
+climb
+right
+left
+right
+left
+right
+up
+right
+up
+down
+up
+down
+down
+right
+left
