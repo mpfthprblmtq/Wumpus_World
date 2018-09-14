@@ -1,2 +1,2 @@
 # Wumpus_World
-asdf
+A simple Wumpus World game that I made to spite my professor in AI.
